@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendBeautyIconic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b210951f0ba9d62d55c6c7914b1fafd50025282c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1098b40411c7df777c996ee6962cda82e785fc36")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendBeautyIconic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendBeautyIconic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
